@@ -1,3 +1,18 @@
 html {
     background-color: darkgray;
 }
+
+.project_header {
+    text-decoration: underline;
+    font-size: 48px;
+    text-align: center;
+}
+
+.project_subheader {
+    text-decoration: underline;
+    font-size: 36px;
+}
+
+.project {
+    font-size: 36px;
+}
